@@ -1,0 +1,30 @@
+# Private data and authenticated browser profiles
+message_templates*.json
+whatsapp_data*.json
+!whatsapp_data.example.json
+*.json.tmp
+.chrome-profile/
+.env
+.env.*
+!.env.example
+*.log
+
+# Python environments and caches
+venv/
+.venv/
+env/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+*.egg-info/
+build/
+dist/
+.coverage
+htmlcov/
+
+# Editors and operating systems
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db

@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="480" viewBox="0 0 1200 480" role="img" aria-labelledby="title desc">
+  <title id="title">Remote WhatsApp — Hazır mesajların, tek tık uzağında.</title>
+  <desc id="desc">Koyu yeşil zeminde kişiselleştirilebilir mesaj kartını gösteren tanıtım çizimi.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#052e2b"/><stop offset="1" stop-color="#0b5146"/></linearGradient>
+    <linearGradient id="card" x2="0" y2="1"><stop stop-color="#ffffff"/><stop offset="1" stop-color="#f0faf5"/></linearGradient>
+  </defs>
+  <rect width="1200" height="480" rx="28" fill="url(#bg)"/>
+  <circle cx="1130" cy="30" r="235" fill="#73efab" opacity=".055"/>
+  <circle cx="30" cy="480" r="210" fill="#73efab" opacity=".05"/>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <rect x="58" y="57" width="198" height="30" rx="15" fill="#a7f3c9" opacity=".12"/>
+    <text x="76" y="77" fill="#a7f3c9" font-size="12" letter-spacing="2">PYTHON · SELENIUM</text>
+    <text x="56" y="153" fill="#fff" font-size="45" font-weight="700">Remote WhatsApp</text>
+    <text x="58" y="217" fill="#d8f5e7" font-size="29">Hazır mesajların,</text>
+    <text x="58" y="257" fill="#7ce9ac" font-size="29" font-weight="600">tek tık uzağında.</text>
+    <text x="58" y="310" fill="#b1d3c5" font-size="17">Oluştur. Kişiselleştir. Gönder.</text>
+    <rect x="58" y="359" width="232" height="44" rx="12" fill="#7ce9ac"/>
+    <text x="80" y="387" fill="#073d2f" font-size="16" font-weight="700">Senin mesajın. Senin stilin.</text>
+    <rect x="636" y="63" width="508" height="369" rx="18" fill="#001d18" opacity=".28"/>
+    <rect x="622" y="49" width="508" height="369" rx="18" fill="url(#card)"/>
+    <path d="M640 49h472a18 18 0 0 1 18 18v33H622V67a18 18 0 0 1 18-18" fill="#e1eee7"/>
+    <circle cx="647" cy="75" r="5" fill="#9db7a8"/>
+    <circle cx="664" cy="75" r="5" fill="#9db7a8"/>
+    <circle cx="681" cy="75" r="5" fill="#9db7a8"/>
+    <text x="711" y="80" fill="#416655" font-size="13">HAZIR MESAJLAR</text>
+    <text x="650" y="139" fill="#6b8376" font-size="12" letter-spacing="1">ALICI</text>
+    <text x="883" y="139" fill="#6b8376" font-size="12" letter-spacing="1">SENİN ADIN</text>
+    <rect x="650" y="151" width="210" height="39" rx="8" fill="#fff" stroke="#d1e1d7"/>
+    <rect x="883" y="151" width="218" height="39" rx="8" fill="#fff" stroke="#d1e1d7"/>
+    <text x="664" y="177" fill="#183e2c" font-size="16">Deniz</text>
+    <text x="897" y="177" fill="#183e2c" font-size="16">Eren</text>
+    <rect x="650" y="211" width="451" height="178" rx="12" fill="#fff" stroke="#d1e1d7"/>
+    <text x="671" y="245" fill="#183e2c" font-size="19" font-weight="700">Kendini tanıt</text>
+    <rect x="671" y="265" width="347" height="45" rx="10" fill="#def7e6"/>
+    <text x="687" y="294" fill="#204d35" font-size="17">Merhaba Deniz, ben Eren.</text>
+    <rect x="671" y="330" width="119" height="38" rx="8" fill="#087f5b"/>
+    <text x="696" y="355" fill="#fff" font-size="16" font-weight="600">Gönder ↗</text>
+    <text x="811" y="355" fill="#5c7868" font-size="14">Düzenle</text>
+    <text x="894" y="355" fill="#5c7868" font-size="14">Sil</text>
+  </g>
+</svg>
