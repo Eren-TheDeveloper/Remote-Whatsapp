@@ -1,5 +1,5 @@
 selenium>=4.10,<5
-sounddevice>=0.4.6,<1
+sounddevice>=0.5.6,<1
 SpeechRecognition>=3.10,<4
 # Security floors for Selenium's transitive TLS dependencies.
 urllib3>=2.8.0,<3
