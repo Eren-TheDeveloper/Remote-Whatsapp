@@ -1,4 +1,4 @@
-selenium>=4.10,<5
+selenium>=4.52.0,<5
 sounddevice>=0.4.6,<1
 SpeechRecognition>=3.10,<4
 # Security floors for Selenium's transitive TLS dependencies.
